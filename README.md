@@ -1,4 +1,4 @@
-# 🌟 What is Success to Me?: Personal Data Analysis
+# 🌟 What is Success to Me? : An Analysis of my Personal Data
 
 ## 📌 Project Overview
 This is not just any data project - it's a personal journey through a year's worth of data. I've dived into my HealthKit stats, Spotify jams, work schedules, and mood diaries to uncover where my time went and what accomplishments I’ve made along the way.
