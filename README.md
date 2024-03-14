@@ -22,7 +22,10 @@ This exploration goes beyond data to ask the question what is my definition of s
 - **Work and Well-being:** I clocked in an impressive hours and got a 55 day streak! I increasingly used the word "creative" when I was at my summer intership. 📈
 - **Mood Patterns:** Writing, Learning, Staying Busy - these things affect me positively! My Mood boosts 40% from Sunday to Monday 🗯️
 
-## 🎓 Conclusions
+## 🎓 Results!
+
+![My Canva Design](2023_visualisation.png "My 2023")
+
 
 🎧 **Consistent Growth and Learning:** Success is about staying intellectually stimulated and constantly learning. 🤓
 
