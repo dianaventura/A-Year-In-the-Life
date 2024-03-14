@@ -1,5 +1,6 @@
 # 🌟 What is Success to Me? : An Analysis of my Personal Data
 <img src="2024_visualisation.png" alt="My Visualisation" width="600"/>
+
 ## 📌 Project Overview
 This is not just any data project - it's a personal journey through a year's worth of data. I've dived into my HealthKit stats, Spotify jams, work schedules, and mood diaries to uncover where my time went and what accomplishments I’ve made along the way.
 This exploration goes beyond data to ask the question what is my definition of success and what achievements am I most proud of?. 📊🎶📆
