@@ -24,7 +24,7 @@ This exploration goes beyond data to ask the question what is my definition of s
 
 ## 🎓 Results!
 
-![My Canva Design](2023_visualisation.png "My 2023")
+![My Visualisation](2024_visualisation.png "My 2023")
 
 
 🎧 **Consistent Growth and Learning:** Success is about staying intellectually stimulated and constantly learning. 🤓
