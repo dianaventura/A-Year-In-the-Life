@@ -1,5 +1,5 @@
 # 🌟 What is Success to Me? : An Analysis of my Personal Data
-<img src="2024_visualisation.png.png" alt="My Visualisation" width="600"/>
+<img src="2024_visualisation.png" alt="My Visualisation" width="600"/>
 
 ![My Visualisation](2024_visualisation.png "My 2023")
 
