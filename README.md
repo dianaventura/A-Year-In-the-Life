@@ -1,5 +1,7 @@
 # 🌟 What is Success to Me? : An Analysis of my Personal Data
 
+![My Visualisation](2024_visualisation.png "My 2023")
+
 ## 📌 Project Overview
 This is not just any data project - it's a personal journey through a year's worth of data. I've dived into my HealthKit stats, Spotify jams, work schedules, and mood diaries to uncover where my time went and what accomplishments I’ve made along the way.
 This exploration goes beyond data to ask the question what is my definition of success and what achievements am I most proud of?. 📊🎶📆
@@ -23,9 +25,6 @@ This exploration goes beyond data to ask the question what is my definition of s
 - **Mood Patterns:** Writing, Learning, Staying Busy - these things affect me positively! My Mood boosts 40% from Sunday to Monday 🗯️
 
 ## 🎓 Results!
-
-![My Visualisation](2024_visualisation.png "My 2023")
-
 
 🎧 **Consistent Growth and Learning:** Success is about staying intellectually stimulated and constantly learning. 🤓
 
