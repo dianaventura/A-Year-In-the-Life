@@ -11,12 +11,6 @@ This exploration goes beyond data to ask the question what is my definition of s
 - **Work Schedules:** Balancing life and work - a look into my work schedules and university timetables. 💼
 - **Mood Data:** Adjectives used, number of pages written and a mood score from each entry. 🎢
 
-## 🔥 Key Features
-1. **Activity Analysis:** Step by step, day by day - how active was I really? 🏃‍♂️
-2. **Music Listening Habits:** How is are my listening preferences tied to my mood?🎵
-3. **Work Commitments:** When was I busiest? When was I the most creative, happiest? Are these related?🕒
-4. **Mood Trends:** What makes me tick? Analyzing mood patterns and their ties to life's rhythms. 🌈
-
 ## 💡 Key Findings
 - **Activity Peaks:** My most active day was on Thursdays. I hit 8,684 steps! 🌟
 - **Music and Mood:** I'm at my happiest when I'm learning!!! The Lex Fridman Podcast was my most listened to artsit when I was happy. 🎸
