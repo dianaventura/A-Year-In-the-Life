@@ -1,5 +1,5 @@
 # 🌟 What is Success to Me? : An Analysis of my Personal Data
-<img src="2024_visualisation.png" alt="My Visualisation" width="600"/>
+<img src="2024_visualisation.png" alt="My Visualisation" width="500"/>
 
 ## 📌 Project Overview
 This is not just any data project - it's a personal journey through a year's worth of data. I've dived into my HealthKit stats, Spotify jams, work schedules, and mood diaries to uncover where my time went and what accomplishments I’ve made along the way.
@@ -9,12 +9,12 @@ This exploration goes beyond data to ask the question what is my definition of s
 - **HealthKit:** Stepping into the numbers with step count data from my HealthKit apple records. 👣
 - **Spotify:** A year's worth of my music listening history 🎧
 - **Work Schedules:** Balancing life and work - a look into my work schedules and university timetables. 💼
-- **Mood Data:** Adjectives used, number of pages written and a mood score from each entry. 🎢
+- **Mood Data:** Adjectives used, number of pages written and a mood score from each entry of my journal. 🎢
 
 ## 💡 Key Findings
 - **Activity Peaks:** My most active day was on Thursdays. I hit 8,684 steps! 🌟
 - **Music and Mood:** I'm at my happiest when I'm learning!!! The Lex Fridman Podcast was my most listened to artsit when I was happy. 🎸
-- **Work and Well-being:** I clocked in an impressive hours and got a 55 day streak! I increasingly used the word "creative" when I was at my summer intership. 📈
+- **Work and Well-being:** I clocked in impressive hours and got a 55 day work day streak! I increasingly used the word "creative" when I was at my summer intership. 📈
 - **Mood Patterns:** Writing, Learning, Staying Busy - these things affect me positively! My Mood boosts 40% from Sunday to Monday 🗯️
 
 ## 🎓 Results!
