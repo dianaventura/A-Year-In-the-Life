@@ -6,7 +6,7 @@ This is not just any data project - it's a personal journey through a year's wor
 This exploration goes beyond data to ask the question what is my definition of success and what achievements am I most proud of?. 📊🎶📆
 
 ## 📊 Data Sources
-- **HealthKit:** Stepping into the numbers with step count data from my HealthKit apple records. 👣
+- **HealthKit:** Step count data from my HealthKit apple records. 👣
 - **Spotify:** A year's worth of my music listening history 🎧
 - **Work Schedules:** Balancing life and work - a look into my work schedules and university timetables. 💼
 - **Mood Data:** Adjectives used, number of pages written and a mood score from each entry of my journal. 🎢
@@ -19,13 +19,13 @@ This exploration goes beyond data to ask the question what is my definition of s
 
 ## 🎓 Results!
 
-🎧 **Consistent Growth and Learning:** Success is about staying intellectually stimulated and constantly learning. 🤓
+🎧 **Consistent Growth and Learning:** Turns out that for me success is about staying intellectually stimulated and constantly learning. 🤓
 
-💼 **Work Brings Joy:** My impressive work streak and feeling creative during my summer internship reveal that I find true joy in my work. 💖
+💼 **Work Brings Joy:** My summer long work streak had me feeling creative during my summer internship, revealling that I find true joy in my work. 💖
 
-✍️ **Writing as an Outlet:** Intense emotions? Bring them on! Writing is my sanctuary, a place where I can channel those feelings and turn them into something beautiful. 🌟
+✍️ **Writing as an Outlet:** Intense emotions - I love them. Writing is my sanctuary, I write more when I feel more 🌟
 
-🌈 **Overall:** This journey has been about understanding what makes me tick, what keeps me moving forward, and what brings color to my days. Success isn't one thing, all my daily habits contribute to my overall output. 🚀
+🌈 **Overall:** This journey has been about understanding what makes me tick, what keeps me moving forward, and what makes a day feel successfull. Success isn't one thing, all my daily habits contribute to my overall output. 🚀
 The achievemnet I'm most proud of from this year is that I accumulated alot of working hours AND I enjoyed it. Success to me is accumulating experiences that fuel me.
 
 
